@@ -1,0 +1,6 @@
+{
+  "name": "healthcar-site",
+  "private": true,
+  "description": "HealthCar.co static site plus one serverless function for the contact form",
+  "scripts": { "build": "node build.mjs", "preview-emails": "node scripts/preview-emails.js" }
+}
